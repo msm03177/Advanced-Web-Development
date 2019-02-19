@@ -1,1 +1,1 @@
-I am a senior in Interactive Media and this is my Advanced Web Devvelopment work!
+I am a senior in Interactive Media and this is my Advanced Web Development work!
